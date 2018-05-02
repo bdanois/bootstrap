@@ -70,9 +70,12 @@ figure {
   margin-right: auto;
 }
 
-
-
-
+.image{
+  float: center;
+  width: 300px;
+  height: 300px;
+  background-position: 50% 50%;
+}
 
 /*
 Extra small (xs) devices (portrait phones, less than 576px)

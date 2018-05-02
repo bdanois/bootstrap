@@ -1,0 +1,8 @@
+using the website you just made, link to the about page and present the following:
+
+picture
+
+one paragraph of each: html, css
+
+logo of each technology at the bottom
+html, css
